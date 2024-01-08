@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/snackgame/bin/Debug/net7.0/snackgame
+/Users/macos/Desktop/Operator/snackgame/bin/Debug/net7.0/snackgame.deps.json
+/Users/macos/Desktop/Operator/snackgame/bin/Debug/net7.0/snackgame.runtimeconfig.json
+/Users/macos/Desktop/Operator/snackgame/bin/Debug/net7.0/snackgame.dll
+/Users/macos/Desktop/Operator/snackgame/bin/Debug/net7.0/snackgame.pdb
+/Users/macos/Desktop/Operator/snackgame/obj/Debug/net7.0/snackgame.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/snackgame/obj/Debug/net7.0/snackgame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/snackgame/obj/Debug/net7.0/snackgame.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/snackgame/obj/Debug/net7.0/snackgame.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/snackgame/obj/Debug/net7.0/snackgame.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/snackgame/obj/Debug/net7.0/snackgame.dll
+/Users/macos/Desktop/Operator/snackgame/obj/Debug/net7.0/refint/snackgame.dll
+/Users/macos/Desktop/Operator/snackgame/obj/Debug/net7.0/snackgame.pdb
+/Users/macos/Desktop/Operator/snackgame/obj/Debug/net7.0/snackgame.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/snackgame/obj/Debug/net7.0/ref/snackgame.dll
